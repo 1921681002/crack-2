@@ -1,6 +1,6 @@
 # Author
 ```
-Script ini dirakit oleh MUHAMMAD RIZKY
+MUHAMMAD RIZKY
 ```
 
 # Methode Login!
