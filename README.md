@@ -1,2 +1,4 @@
-# crack-2
+# install
+````
 Script ini dirakit oleh MUHAMMAD RIZKY
+```
