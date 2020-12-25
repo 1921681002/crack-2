@@ -1,7 +1,13 @@
-# install
+# Author
 ```
 Script ini dirakit oleh MUHAMMAD RIZKY
 ```
+
+# Methode Login!
+* Token
+* Cookies
+
+#INSTALL
 
 * pkg update && pkg upgrade
 * pkg install git
