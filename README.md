@@ -1,6 +1,7 @@
 # install
-````
+```
 Script ini dirakit oleh MUHAMMAD RIZKY
+```
 
 * pkg update && pkg upgrade
 * pkg install git
