@@ -16,7 +16,5 @@ MUHAMMAD RIZKY
 * pip2 install requests
 * pkg install bs4
 * git clone https://github.com/kinarworo/crack-2
-
-# Run
 * cd crack-2
 * python2 run.py
