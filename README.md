@@ -15,6 +15,6 @@ MUHAMMAD RIZKY
 * pip2 install mechanize
 * pip2 install requests
 * pkg install bs4
-* git clone https://github.com/kinarworo/crack-2
+* git clone https://github.com/FthRXRhmn/crack-2
 * cd crack-2
 * python2 run.py
